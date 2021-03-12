@@ -13,14 +13,14 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="JKI-State Machine Job" Type="Folder">
-			<Item Name="Job (JKI-SM).vi" Type="VI" URL="../Job (JKI-SM).vi"/>
+			<Item Name="template_Job (JKI-SM).vi" Type="VI" URL="../template_Job (JKI-SM).vi"/>
 		</Item>
 		<Item Name="Caraya Job" Type="Folder">
 			<Item Name="Tests" Type="Folder">
 				<Item Name="Test_Caraya_Example.vi" Type="VI" URL="../examples/Tests/Test_Caraya_Example.vi"/>
 			</Item>
 			<Item Name="Caraya Job Configuration -- cluster.ctl" Type="VI" URL="../Caraya Job Configuration -- cluster.ctl"/>
-			<Item Name="Job (Caraya Test).vi" Type="VI" URL="../Job (Caraya Test).vi"/>
+			<Item Name="template_Job (Caraya Test).vi" Type="VI" URL="../template_Job (Caraya Test).vi"/>
 		</Item>
 		<Item Name="examples" Type="Folder">
 			<Item Name="JKI-SM Example.vi" Type="VI" URL="../examples/JKI-SM Example.vi"/>
