@@ -68,7 +68,7 @@
 				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">268967936</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">8400896</Property>
 			</Item>
 		</Item>
 		<Item Name="Destination" Type="Property Definition">
@@ -91,9 +91,18 @@
 				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">268967936</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">8400896</Property>
 			</Item>
 		</Item>
+	</Item>
+	<Item Name="Create SingleFileCopy Job.vi" Type="VI" URL="../Create SingleFileCopy Job.vi">
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'U!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$J!=!!?!!!='EJP9CZ4;7ZH&lt;'6';7RF1W^Q?3ZM&gt;G.M98.T!!!33G^C,F.J&lt;G&gt;M:5:J&lt;'6$&lt;X"Z!!!]1(!!(A!!("J+&lt;W)O5WFO:WRF2GFM:5.P=(EO&lt;(:D&lt;'&amp;T=Q!!&amp;5JP9CZ4;7ZH&lt;'6';7RF1W^Q?3"J&lt;A!_1(!!(A!!*2&amp;P='6O1X*P&lt;EJP9CZM&gt;GRJ9B&amp;+&lt;W*3:8"P=H1O&lt;(:D&lt;'&amp;T=Q!/3G^C5G6Q&lt;X*U)(2Z='5!!"*!-0````])3G^C)%ZB&lt;75!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!&amp;%!S`````QN%:8.U;7ZB&gt;'FP&lt;A!11$,`````"F.P&gt;8*D:1!!91$Q!!Q!!Q!%!!1!"1!%!!9!"Q!)!!E!"!!+!!M$!!"Y!!!.#!!!!!!!!!!!!!!."1!!!!!!!!I!!!!)!!!!#!!!!!I!!!!!!!!!#!!!!!A!!!U!!!!'!!!!!!!!!!!!!!%!$!!!!!!</Property>
+		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1082143248</Property>
 	</Item>
 	<Item Name="Prepare stdin.vi" Type="VI" URL="../Prepare stdin.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!(0!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!!Z!-0````]&amp;5X2E;7Y!0E"Q!"Y!!"Q;3G^C,F.J&lt;G&gt;M:5:J&lt;'6$&lt;X"Z,GRW9WRB=X-!!":+&lt;W)O5WFO:WRF2GFM:5.P=(EA&lt;X6U!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!""!)1JP&gt;G6S&gt;X*J&gt;'5`!!"N!0%!!!!!!!!!!BJ+&lt;W)O5WFO:WRF2GFM:5.P=(EO&lt;(:D&lt;'&amp;T=SF';7RF1W^Q?3"+&lt;W)A1W^O:GFH&gt;8*B&gt;'FP&lt;C!N,3"D&lt;(6T&gt;'6S,G.U&lt;!!A1&amp;!!!1!)%U:J&lt;'6$&lt;X"Z)%JP9C"$&lt;WZG;7=!0%"Q!"Y!!"Q;3G^C,F.J&lt;G&gt;M:5:J&lt;'6$&lt;X"Z,GRW9WRB=X-!!"6+&lt;W)O5WFO:WRF2GFM:5.P=(EA;7Y!91$Q!!Q!!Q!%!!5!"A!%!!1!"!!%!!=!"!!*!!I$!!"Y!!!.#!!!!!!!!!E!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!#!!!!"!!!!U!!!!-!!!!!!!!!!!!!!%!#Q!!!!!</Property>
@@ -103,15 +112,6 @@
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
-	</Item>
-	<Item Name="Create SingleFileCopy Job.vi" Type="VI" URL="../Create SingleFileCopy Job.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'U!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$J!=!!?!!!='EJP9CZ4;7ZH&lt;'6';7RF1W^Q?3ZM&gt;G.M98.T!!!33G^C,F.J&lt;G&gt;M:5:J&lt;'6$&lt;X"Z!!!]1(!!(A!!("J+&lt;W)O5WFO:WRF2GFM:5.P=(EO&lt;(:D&lt;'&amp;T=Q!!&amp;5JP9CZ4;7ZH&lt;'6';7RF1W^Q?3"J&lt;A!_1(!!(A!!*2&amp;P='6O1X*P&lt;EJP9CZM&gt;GRJ9B&amp;+&lt;W*3:8"P=H1O&lt;(:D&lt;'&amp;T=Q!/3G^C5G6Q&lt;X*U)(2Z='5!!"*!-0````])3G^C)%ZB&lt;75!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!&amp;%!S`````QN%:8.U;7ZB&gt;'FP&lt;A!11$,`````"F.P&gt;8*D:1!!91$Q!!Q!!Q!%!!1!"1!%!!9!"Q!)!!E!"!!+!!M$!!"Y!!!.#!!!!!!!!!!!!!!."1!!!!!!!!I!!!!)!!!!#!!!!!I!!!!!!!!!#!!!!!A!!!U!!!!'!!!!!!!!!!!!!!%!$!!!!!!</Property>
-		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
-		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
 	</Item>
 	<Item Name="FileCopy Job Configuration -- cluster.ctl" Type="VI" URL="../FileCopy Job Configuration -- cluster.ctl">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!-!!!!!1!%!!!!!1!!!!!!!!</Property>

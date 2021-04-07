@@ -26,10 +26,14 @@
 			<Item Name="JKI-SM Example.vi" Type="VI" URL="../examples/JKI-SM Example.vi"/>
 			<Item Name="Caraya Test Example.vi" Type="VI" URL="../examples/Caraya Test Example.vi"/>
 			<Item Name="SingleFileCopy Example.vi" Type="VI" URL="../examples/SingleFileCopy Example.vi"/>
+			<Item Name="BuildSpec Example.vi" Type="VI" URL="../examples/BuildSpec Example.vi"/>
 		</Item>
 		<Item Name="Job Class Extensions" Type="Folder">
 			<Item Name="Job.SingleFileCopy" Type="Folder">
 				<Item Name="Job.SingleFileCopy.lvclass" Type="LVClass" URL="../Job.SingleFileCopy/Job.SingleFileCopy.lvclass"/>
+			</Item>
+			<Item Name="Job.BuildSpec" Type="Folder">
+				<Item Name="Job.BuildSpec.lvclass" Type="LVClass" URL="../Job.BuildSpec/Job.BuildSpec.lvclass"/>
 			</Item>
 		</Item>
 		<Item Name="Dependencies" Type="Dependencies">
@@ -446,6 +450,9 @@
 				<Item Name="JKI Serialization.lvlib" Type="Library" URL="/&lt;vilib&gt;/addons/_JKI.lib/Serialization/Core/JKI Serialization.lvlib"/>
 				<Item Name="JKI Unicode.lvlib" Type="Library" URL="/&lt;vilib&gt;/addons/_JKI.lib/Unicode/JKI Unicode.lvlib"/>
 				<Item Name="Simple Error Handler.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Simple Error Handler.vi"/>
+				<Item Name="GetTargetBuildSpecs (project reference).vi" Type="VI" URL="/&lt;vilib&gt;/AppBuilder/GetTargetBuildSpecs (project reference).vi"/>
+				<Item Name="NI_App_Builder_API.lvlib" Type="Library" URL="/&lt;vilib&gt;/AppBuilder/AB_API_Simple/NI_App_Builder_API.lvlib"/>
+				<Item Name="GetTargetBuildSpecs.vi" Type="VI" URL="/&lt;vilib&gt;/AppBuilder/GetTargetBuildSpecs.vi"/>
 			</Item>
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="Reshape Array to 1D VArray__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/lvdata/lvdata.llb/Reshape Array to 1D VArray__ogtk.vi"/>
@@ -494,7 +501,7 @@
 				<Item Name="Valid Path__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/file/file.llb/Valid Path__ogtk.vi"/>
 			</Item>
 			<Item Name="TRef FinderCallback.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/traverseref.llb/TRef FinderCallback.vi"/>
-			<Item Name="Run Tests in Active Project.vi" Type="VI" URL="../../../../../../../../../Program Files (x86)/National Instruments/LabVIEW 2013/project/Caraya/Run Tests in Active Project.vi"/>
+			<Item Name="Run Tests in Active Project.vi" Type="VI" URL="../../../../../Program Files (x86)/National Instruments/LabVIEW 2013/project/Caraya/Run Tests in Active Project.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
